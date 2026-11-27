@@ -5,13 +5,13 @@ An interactive **Tableau Dashboard** designed to analyze Sales data, track key p
 ## 📊 Project Overview
 This repository contains an end-to-end **Sales Analytics Dashboard** built using **Tableau**. The goal of this project is to transform raw transactional sales data into an interactive, executive-level business intelligence tool. By tracking key revenue, profit, and customer metrics, this dashboard enables stakeholders to identify growth opportunities, monitor regional performance, and optimize product pricing strategies.
 
-🔗 **Live Interactive Dashboard:** [View on Tableau Public]()
-
 ## 🎯 Business Objectives
 * **Monitor Core KPIs:** Track Total Sales, Net Profit, Profit Margin, and Total Quantity Sold with Year-over-Year (YoY) comparisons.
 * **Identify Seasonal Trends:** Analyze monthly and quarterly revenue fluctuations to forecast demand and manage inventory.
 * **Evaluate Product & Category Performance:** Pinpoint top-performing sub-categories and identify loss-making products caused by heavy discounting.
 * **Analyze Regional & Segment Distribution:** Compare profitability across different geographic territories and customer segments (Consumer, Corporate, Home Office).
+
+![Dashboard Screenshot](Images/Final_Dashboard.png )
 
 ## 🛠️ Tools & Techniques Used
 * **Visualization Tool:** Tableau Desktop / Tableau Public
@@ -22,15 +22,11 @@ This repository contains an end-to-end **Sales Analytics Dashboard** built using
   * Interactive Dashboard Actions (Filter & Highlight Actions)
   * Dual-Axis Charts, Filled Maps, and KPI Cards (BANs)
 
-
-
 **How to Use**:
 1. **Download**: Download the Excel file from this repository.
 2. **Data Input**: Input your own sales data into the "Data Sheet" or replace existing data.
 3. **Analysis**: Navigate through different sheets to analyze various aspects of your sales.
 4. **Charts**: Charts and graphs are dynamically linked to the data.
-
-![Dashboard Screenshot](Images/Final_Dashboard.png )
 
 
 
